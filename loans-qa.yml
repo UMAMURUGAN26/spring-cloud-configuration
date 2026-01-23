@@ -1,10 +1,10 @@
 build:
-  version: '2.0'
+  version: '2.2'
 
 accounts:
-  message: 'Welcome to loans related qa APIs'
+  message: 'Welcome to loans related QA APIs'
   contactDetails:
-    name: Deva
+    name: DevaDharshini
     email: tess.com
   onCallSupport:
     - (5432) 555-1234
