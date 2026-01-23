@@ -1,10 +1,10 @@
 build:
-  version: '3.1'
+  version: '3.2'
 
 accounts:
   message: 'Welcome to accounts related PROD APIs'
   contactDetails:
-    name: DhevaDharshini
+    name: DhevaDharshini Meghna
     email: "{cipher}935ec0dedde315d07d7d17ac749eb8dd42bcf4b86467a83770e7e3d0c177e94f"
   onCallSupport:
     - (5432) 555-1234
