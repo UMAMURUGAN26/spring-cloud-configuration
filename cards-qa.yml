@@ -2,10 +2,10 @@ build:
   version: '2.0'
 
 accounts:
-  message: 'Welcome to cards related qa APIs'
+  message: 'Welcome to cards related QA APIs'
   contactDetails:
-    name: Deva
-    email: tess.com
+    name: Dheva
+    email: tesingQA@gmail.com
   onCallSupport:
     - (5432) 555-1234
     - (5433) 523-1345
