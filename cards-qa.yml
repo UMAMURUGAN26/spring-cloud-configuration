@@ -4,8 +4,8 @@ build:
 accounts:
   message: 'Welcome to cards related QA APIs'
   contactDetails:
-    name: DhevaDharshini
+    name: DhevaDharshini Meghna
     email: tesingQA@gmail.com
   onCallSupport:
-    - (5432) 555-1234
-    - (5433) 523-1345
+    - (5432) 555-5678
+    - (5433) 523-4567
